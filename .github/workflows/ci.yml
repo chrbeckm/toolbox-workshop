@@ -33,7 +33,7 @@ jobs:
 
       - name: Setup
         run: |
-					 echo "which python"
+	echo "which python"
           which python
           echo "python --version"
           python --version
