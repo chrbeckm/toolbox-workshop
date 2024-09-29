@@ -33,6 +33,8 @@ jobs:
 
       - name: Setup
         run: |
+          echo "Path"
+          echo $PATH
           echo "which python"
           which python
           echo "python --version"

@@ -19,5 +19,5 @@ dependencies:
   - black
   - black-jupyter
   - pip:
-    - Pygments
+    - latexminted
     - ./pygments_style
